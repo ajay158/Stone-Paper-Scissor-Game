@@ -57,16 +57,16 @@ img {
   font-weight: 500;
 }
 
-.msg-container{
-    margin-top: 4rem;
+.msg-container {
+  margin-top: 4rem;
 }
 
-#msg{
-    background-color: #000;
-    color: #fff;
-    font-size: 1.5rem;
-    display: inline;
-    padding: 1rem;
-    border-radius: 1rem;
-    cursor: pointer;
+#msg {
+  background-color: #000;
+  color: #fff;
+  font-size: 1.5rem;
+  display: inline;
+  padding: 1rem;
+  border-radius: 1rem;
+  cursor: pointer;
 }
